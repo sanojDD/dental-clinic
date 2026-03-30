@@ -10,7 +10,7 @@ A modern and responsive dental clinic landing page designed for showcasing denta
 
 ## 📸 Preview
 
-![Dental Clinic Preview](./image.png)
+![Dental Clinic Preview](./Screenshot%20(1753).png)
 
 ---
 
